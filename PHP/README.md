@@ -27,3 +27,4 @@
 | Nome | Descrição |
 | -------- | ------ |
 | PHP Tutorial | https://www.phptutorial.net/ |
+| Learn modern PHP | https://odan.github.io/learn-php/ |
